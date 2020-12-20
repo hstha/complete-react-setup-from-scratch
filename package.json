@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/hstha/complete-react-setup-from-scratch/issues"
   },
-  "homepage": "https://github.com/hstha/complete-react-setup-from-scratch#readme"
+  "homepage": "https://github.com/hstha/complete-react-setup-from-scratch#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10"
+  }
 }
